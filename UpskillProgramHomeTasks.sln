@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangmanGame", "HangmanGame\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsTask", "GenericsTask\GenericsTask.csproj", "{4C9C2CF3-B060-4C56-85B9-63BE39B563FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsTask", "CollectionsTask\CollectionsTask.csproj", "{A1200F3E-EAA0-442D-A88A-C0CA1BB8A173}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{4C9C2CF3-B060-4C56-85B9-63BE39B563FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C9C2CF3-B060-4C56-85B9-63BE39B563FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C9C2CF3-B060-4C56-85B9-63BE39B563FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1200F3E-EAA0-442D-A88A-C0CA1BB8A173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1200F3E-EAA0-442D-A88A-C0CA1BB8A173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1200F3E-EAA0-442D-A88A-C0CA1BB8A173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1200F3E-EAA0-442D-A88A-C0CA1BB8A173}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
