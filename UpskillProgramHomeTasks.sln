@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsTask", "GenericsTas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsTask", "CollectionsTask\CollectionsTask.csproj", "{A1200F3E-EAA0-442D-A88A-C0CA1BB8A173}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTask", "LinqTask\LinqTask.csproj", "{556D9E19-57FC-4514-A3D9-E2AA15778CF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{A1200F3E-EAA0-442D-A88A-C0CA1BB8A173}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1200F3E-EAA0-442D-A88A-C0CA1BB8A173}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1200F3E-EAA0-442D-A88A-C0CA1BB8A173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556D9E19-57FC-4514-A3D9-E2AA15778CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556D9E19-57FC-4514-A3D9-E2AA15778CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556D9E19-57FC-4514-A3D9-E2AA15778CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556D9E19-57FC-4514-A3D9-E2AA15778CF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
